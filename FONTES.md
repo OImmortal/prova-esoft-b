@@ -15,9 +15,9 @@
 > como fonte declarada.
 
 
-| #   | URL | O que foi consultado | Onde aparece no entregável |
-| --- | --- | -------------------- | -------------------------- |
-| —   |     |                      |                            |
+| #   | URL                                                               | O que foi consultado | Onde aparece no entregável |
+| --- | ----------------------------------------------------------------- | -------------------- | -------------------------- |
+| 1   | [.gitignore for C#](https://gist.github.com/takekazuomi/10955889) | gitignore para C#    | .gitingore                 |
 
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
@@ -39,9 +39,9 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
   dúvida, o professor pede o link e pergunta sobre o código.[^plagio]
 
 
-| #   | Link público da conversa | Onde o conteúdo foi usado |
-| --- | ------------------------ | ------------------------- |
-| 1   |                          |                           |
+| #   | Link público da conversa                                                                                                         | Onde o conteúdo foi usado                 |
+| --- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 1   | [https://chatgpt.com/share/6ac6e9ce-9c90-83e9-898f-4ee8321988ba](https://chatgpt.com/share/6ac6e9ce-9c90-83e9-898f-4ee8321988ba) | Foi utilizado para compreensão do projeto |
 
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
