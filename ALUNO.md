@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: João Pedro 
+Nome: João Pedro Souza Peixoto Saraiva
 
-RA: >>> PREENCHER <<<
+RA: 23034350-2
 
 Conta GitHub: @OImmortal
 
