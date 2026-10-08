@@ -14,9 +14,11 @@
 > texto corrido — inclusive o exemplo logo abaixo — **não são contados**
 > como fonte declarada.
 
-| # | URL | O que foi consultado | Onde aparece no entregável |
-| --- | --- | --- | --- |
-| — | | | |
+
+| #   | URL | O que foi consultado | Onde aparece no entregável |
+| --- | --- | -------------------- | -------------------------- |
+| —   |     |                      |                            |
+
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
@@ -31,14 +33,16 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 > permitido **desde que**:
 
 1. a conversa seja **compartilhada** (botão Share) e o link fique **público**
-   (ou acessível ao professor);
+  (ou acessível ao professor);
 2. o link seja registrado abaixo, indicando **onde** o conteúdo foi usado;
 3. você seja capaz de **explicar qualquer trecho** que a IA produziu — na
-   dúvida, o professor pede o link e pergunta sobre o código.[^plagio]
+  dúvida, o professor pede o link e pergunta sobre o código.[^plagio]
 
-| # | Link público da conversa | Onde o conteúdo foi usado |
-| --- | --- | --- |
-| — | | |
+
+| #   | Link público da conversa | Onde o conteúdo foi usado |
+| --- | ------------------------ | ------------------------- |
+| 1   |                          |                           |
+
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
@@ -48,7 +52,7 @@ Declaro que todo o conteúdo deste repositório que não é de minha autoria dir
 está declarado acima, e que consigo explicar qualquer trecho entregue — tenha
 ele vindo da minha cabeça, de um site ou de uma IA consultada.
 
-**Nome / RA:**
+**João Pedro Souza Peixoto Saraiva / 230343502:**
 
 [^transparencia]: Este arquivo é, ele mesmo, um exemplo de markdown bem
     usado: *alert* para a regra crítica, tabelas para os registros e *footnote*
